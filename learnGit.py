@@ -2,4 +2,5 @@ def addition(a, b):
 	return a+b
 
 x = addition(3, 3)
-print(x)
+y = addition(4, 2)
+print(y)
